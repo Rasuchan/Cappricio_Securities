@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="URL PROCESSING (2).gif">
+  <img src="CAPPRICIO SECURITIES.gif">
 </p>
 
 
