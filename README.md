@@ -101,6 +101,7 @@ Thank you for choosing Cappricio Securities for your cybersecurity needs. Secure
 
 <a href="https://www.instagram.com/cappriciosec/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Cappricio Securities Instagram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/results?search_query=%23cappriciosecuniversity" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Cappricio Securities YouTube" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/company/cappricio-securities/" target="_blank"><img align="center" src="https://brand.linkedin.com/d/s7b7ybb6z6iay39fkc5gukg20" alt="Cappricio Securities LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/cappricio-securities/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cappricio Securities LinkedIn" height="30" width="40" /></a>
+
 </p>
 
