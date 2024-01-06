@@ -11,7 +11,7 @@ Welcome to the official Cappricio Securities GitHub repository! We are dedicated
 <hr>
 
 <p align="center">
-  <img src="CAPPRICIO SECURITIES (1).gif" width="800" height="700">
+  <img src="CAPPRICIO SECURITIES (1).gif" width="1000" height="500">
 </p>
 
 ## About Us
