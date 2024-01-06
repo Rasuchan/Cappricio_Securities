@@ -1,8 +1,9 @@
-# <img src="path/to/your/logo.png" alt="Cappricio Securities Logo" width="200">
+<p align="center">
+  <img src="logo.jfif" alt="Cappricio Securities Logo" width="100">
+</p>
 
-# <span style="color: #2ecc71;">Cappricio Securities</span>
+<h1 align="center">Cappricio Securities</h1>
 
-# Cappricio Securities
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Code Coverage](https://img.shields.io/codecov/c/github/Cappricio-Securities/Cappricio_Securities?color=green)](https://codecov.io/gh/Cappricio-Securities/Cappricio_Securities)
@@ -15,11 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=Cappricio-Securities&label=Profile%20views&color=2ecc71&style=flat" alt="Cappricio-Securities" />
 </p>
 
-
-
 ---
 
-## <span style="color: #2ecc71;">Welcome to the official Cappricio Securities GitHub repository!</span>
+## Welcome to the official Cappricio Securities GitHub repository!
 
 We are on a mission to build a secure internet for future generations, headquartered in Tamilnadu, India, and operating globally. 🚀 Delivering excellence in Cybersecurity services.
 
@@ -29,11 +28,22 @@ We are on a mission to build a secure internet for future generations, headquart
   <img src="CAPPRICIO SECURITIES (1).gif" width="800" height="400">
 </p>
 
-## <span style="color: #2ecc71;">About Us</span>
+---
+
+## Table of Contents
+
+**About Us** 🌐
+**Our Goals** 🎯
+**Repository Contents** 📂
+**How to Contribute** 🤝
+**Cappricio Securities Services** 🔒
+
+
+## About Us
 
 At Cappricio Securities, we blend expertise and innovation to advance knowledge and enhance cybersecurity practices. Our tools are meticulously crafted for accuracy, reliability, and accessibility. Whether you're a cybersecurity 🛡️ pro, a passionate researcher 🕵️‍♂️, or a learning enthusiast 📘, our tools cater to your needs.
 
-## <span style="color: #2ecc71;">Our Goals</span>
+## Our Goals
 
 - **Building a Secure Future:** We go beyond tools, dedicating ourselves to fortifying the digital landscape for future generations.
 
@@ -43,15 +53,7 @@ At Cappricio Securities, we blend expertise and innovation to advance knowledge 
 
 - **Empowering Education:** Knowledge is empowerment. Explore our tools alongside comprehensive learning materials.
 
-## <span style="color: #2ecc71;">Table of Contents</span>
-
-- [About Us](#about-us)
-- [Our Goals](#our-goals)
-- [Repository Contents](#repository-contents)
-- [How to Contribute](#how-to-contribute)
-- [Cappricio Securities Services](#cappricio-securities-services)
-
-## <span style="color: #2ecc71;">Repository Contents</span>
+## Repository Contents
 
 Discover our tools and learning materials:
 
@@ -60,7 +62,7 @@ Discover our tools and learning materials:
    <!-- Add more tools as needed -->
 Each tool is accompanied by detailed documentation to ensure a seamless experience.
 
-## <span style="color: #2ecc71;">How to Contribute</span>
+## How to Contribute
 
 Join our mission! Your contributions play a vital role in enhancing our tools and supporting the cybersecurity community. Follow these steps:
 
@@ -70,7 +72,7 @@ Join our mission! Your contributions play a vital role in enhancing our tools an
 
 Together, we fortify the digital realm.
 
-## <span style="color: #2ecc71;">Cappricio Securities Services</span>
+## Cappricio Securities Services
 
 **Part 1:**
 Welcome to Cappricio Securities, where dedication meets innovation. Building a secure internet for future generations, we operate globally from our hub in Tamilnadu, India.
@@ -79,12 +81,6 @@ Welcome to Cappricio Securities, where dedication meets innovation. Building a s
 Our professional team excels in Cyber Crime Investigations 🔍, Real-world Training 🎓, and Security Awareness initiatives. Trust us to safeguard your digital future with unwavering professionalism and commitment.
 
 For inquiries, feedback, or collaboration opportunities, feel free to reach out to us at [your_website].
-
-## Project Roadmap
-
-- [x] Release v1.0.0
-- [ ] Implement Advanced Encryption
-
 
 Thank you for choosing Cappricio Securities for your cybersecurity needs. Secure the future, explore the code!
 
