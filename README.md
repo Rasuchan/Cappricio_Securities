@@ -6,12 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=Cappricio-Securities&label=Profile%20views&color=0e75b6&style=flat" alt="Cappricio-Securities" />
 </p>
 
+
+Welcome to the official Cappricio Securities GitHub repository! We are dedicated to building a secure internet for future generations. Headquartered in Tamilnadu, India, we operate globally, delivering exceptional Cybersecurity services.
+
 <p align="center">
   <img src="CAPPRICIO SECURITIES.gif">
 </p>
-
-
-Welcome to the official Cappricio Securities GitHub repository! We are dedicated to building a secure internet for future generations. Headquartered in Tamilnadu, India, we operate globally, delivering exceptional Cybersecurity services.
 
 ## About Us
 
