@@ -53,6 +53,16 @@ At Cappricio Securities, we blend expertise and innovation to advance knowledge 
 
 - **Empowering Education:** Knowledge is empowerment. Explore our tools alongside comprehensive learning materials.
 
+  <hr>
+
+
+<p align="center">
+  <img src="cybersecurity.gif" width="800" height="400">
+</p>
+
+<hr>
+
+
 ## Repository Contents
 
 Discover our tools and learning materials:
@@ -61,6 +71,8 @@ Discover our tools and learning materials:
 2. **Tool Name 2:** Brief description and purpose.
    <!-- Add more tools as needed -->
 Each tool is accompanied by detailed documentation to ensure a seamless experience.
+
+<hr>
 
 ## How to Contribute
 
@@ -71,6 +83,8 @@ Join our mission! Your contributions play a vital role in enhancing our tools an
 3. Make your changes and submit a pull request.
 
 Together, we fortify the digital realm.
+
+<hr>
 
 ## Cappricio Securities Services
 
