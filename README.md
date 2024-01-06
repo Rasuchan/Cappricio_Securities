@@ -1,5 +1,12 @@
 # Cappricio Securities
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Cappricio-Securities&label=Profile%20views&color=0e75b6&style=flat" alt="Cappricio-Securities" />
+</p>
+
+
 Welcome to the official Cappricio Securities GitHub repository! We are dedicated to building a secure internet for future generations. Headquartered in Tamilnadu, India, we operate globally, delivering exceptional Cybersecurity services.
 
 ## About Us
