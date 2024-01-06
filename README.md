@@ -1,12 +1,21 @@
+# <img src="path/to/your/logo.png" alt="Cappricio Securities Logo" width="200">
+
 # <span style="color: #2ecc71;">Cappricio Securities</span>
 
+# Cappricio Securities
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Build Status](your_build_status_badge)](link_to_your_ci)
-[![Code Coverage](your_code_coverage_badge)](link_to_coverage_report)
+[![Code Coverage](https://img.shields.io/codecov/c/github/Cappricio-Securities/Cappricio_Securities?color=green)](https://codecov.io/gh/Cappricio-Securities/Cappricio_Securities)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://semver.org/)
+[![Open Issues](https://img.shields.io/github/issues/Cappricio-Securities/Cappricio_Securities?color=green)](https://github.com/Cappricio-Securities/Cappricio_Securities/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Cappricio-Securities/Cappricio_Securities?color=green)](https://github.com/Cappricio-Securities/Cappricio_Securities/commits/master)
+[![Contributors](https://img.shields.io/github/contributors/Cappricio-Securities/Cappricio_Securities?color=green)](https://github.com/Cappricio-Securities/Cappricio_Securities/graphs/contributors)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cappricio-Securities&label=Profile%20views&color=2ecc71&style=flat" alt="Cappricio-Securities" />
 </p>
+
+
 
 ---
 
@@ -70,6 +79,12 @@ Welcome to Cappricio Securities, where dedication meets innovation. Building a s
 Our professional team excels in Cyber Crime Investigations 🔍, Real-world Training 🎓, and Security Awareness initiatives. Trust us to safeguard your digital future with unwavering professionalism and commitment.
 
 For inquiries, feedback, or collaboration opportunities, feel free to reach out to us at [your_website].
+
+## Project Roadmap
+
+- [x] Release v1.0.0
+- [ ] Implement Advanced Encryption
+
 
 Thank you for choosing Cappricio Securities for your cybersecurity needs. Secure the future, explore the code!
 
